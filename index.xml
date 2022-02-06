@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolio</title><link>https://axel-1.github.io/</link><description>Recent content on Portfolio</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><copyright>© 2022 Axel Le Bris</copyright><lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://axel-1.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Bienvenue sur mon Portfolio !</title><link>https://axel-1.github.io/posts/hello/</link><pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/posts/hello/</guid><description>Bienvenue sur mon portfolio, vous trouverez ici toutes les informations concernant mon parcours. Vous pouvez également voir les derniers articles de veille ci-dessous.</description><content>&lt;p>Bienvenue sur mon portfolio, vous trouverez ici toutes les informations concernant mon parcours. Vous pouvez également voir les derniers articles de veille ci-dessous.&lt;/p></content></item><item><title>Changement mineur des règles de design dans iOS 15</title><link>https://axel-1.github.io/posts/ios_guidelines/</link><pubDate>Tue, 18 May 2021 10:00:00 +0000</pubDate><guid>https://axel-1.github.io/posts/ios_guidelines/</guid><description>Apple a changé les règles de design dans iOS 15, ainsi les applications pourront les respecter afin de garder un design uniforme pour l&amp;rsquo;utilisateur.
+https://developer.apple.com/design/whats-new/?id=11182021</description><content>&lt;p>Apple a changé les règles de design dans iOS 15, ainsi les applications pourront les respecter afin de garder un design uniforme pour l&amp;rsquo;utilisateur.&lt;/p>
+&lt;p>&lt;a href="https://developer.apple.com/design/whats-new/?id=11182021">https://developer.apple.com/design/whats-new/?id=11182021&lt;/a>&lt;/p></content></item><item><title>Google annonce le Material You avec Android 12</title><link>https://axel-1.github.io/posts/material-you/</link><pubDate>Tue, 18 May 2021 10:00:00 +0000</pubDate><guid>https://axel-1.github.io/posts/material-you/</guid><description>A l&amp;rsquo;occasion de la Google I/O 2021, la firme de Mountain View a annoncé Android 12 avec un tout nouveau design qui définira les nouvelles règles de design des applis Android.
+https://blog.google/products/android/android-12-beta/</description><content>&lt;p>A l&amp;rsquo;occasion de la Google I/O 2021, la firme de Mountain View a annoncé Android 12 avec un tout nouveau design qui définira les nouvelles règles de design des applis Android.&lt;/p>
+&lt;p>&lt;a href="https://blog.google/products/android/android-12-beta/">https://blog.google/products/android/android-12-beta/&lt;/a>&lt;/p></content></item><item><title>A propos</title><link>https://axel-1.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/about/</guid><description>Je m&amp;rsquo;appelle Axel et je suis passionné par les nouvelles technologies. J&amp;rsquo;étudie en BTS SIO SLAM dans le lycée Turgot à Paris.
+Expériences professionnelles Pendant ma formation de Bac Pro SN RISC j&amp;rsquo;ai réalisé plusieurs stages qui m&amp;rsquo;ont apporté de nombreuses compétences au contact de professionnels. J’ai notamment développé une application de création automatique de compte Azure Active Directory ou encore une application mobile de compte-rendu d’intervention pour les techniciens du groupe.</description><content>&lt;p>Je m&amp;rsquo;appelle Axel et je suis passionné par les nouvelles technologies. J&amp;rsquo;étudie en BTS SIO SLAM dans le lycée Turgot à Paris.&lt;/p>
+&lt;img src="https://axel-1.github.io/img/profil.jpg" alt="Profil" class="center" style="border-radius: 8px; width: 500px;" />
+&lt;h1 id="expériences-professionnelles">Expériences professionnelles&lt;/h1>
+&lt;p>Pendant ma formation de Bac Pro SN RISC j&amp;rsquo;ai réalisé plusieurs stages qui m&amp;rsquo;ont apporté de nombreuses compétences au contact de professionnels. J’ai notamment développé une application de création automatique de compte Azure Active Directory ou encore une application mobile de compte-rendu d’intervention pour les techniciens du groupe. Également, j’ai réalisé des statistiques avec Microsoft Power BI à l’aide de requêtes SQL sur les bases GLPI des clients de l’entreprise.&lt;/p>
+&lt;p>Puis durant mes études en BTS SIO, j&amp;rsquo;ai mis en place un site e-commerce pour une entreprise et développé des extensions Prestashop. Egalement, j&amp;rsquo;ai participé au développement d&amp;rsquo;un CMS basé sur Symfony pour un club de danse. Avec notamment l&amp;rsquo;implémentation d&amp;rsquo;une API REST. Ces expériences professionnelles m’ont appris à m’organiser et à travailler en équipe notamment grâce à la méthode Agile.&lt;/p>
+&lt;h1 id="compétences-techniques">Compétences techniques&lt;/h1>
+&lt;ul>
+&lt;li>Java, PHP, Kotlin, Dart&lt;/li>
+&lt;li>Framework Spring, Symfony, Flutter&lt;/li>
+&lt;li>Docker&lt;/li>
+&lt;li>Conception de base de données, MCD, UML&lt;/li>
+&lt;li>SQL, MariaDB, PostgreSQL&lt;/li>
+&lt;li>Connaissances en solution cloud Microsoft Azure, Google Cloud Platform&lt;/li>
+&lt;li>Administration Office 365, Power Apps, Power Automate, Power Bi&lt;/li>
+&lt;li>Administration Linux, Windows Server&lt;/li>
+&lt;li>Virtualisation VMware vSphere, XCP-ng, Proxmox, Microsoft Hyper-V&lt;/li>
+&lt;li>Administration Réseau, Cisco IOS, Ubiquiti Unifi, EdgeRouter, WireGuard, Tailscale, ZeroTier&lt;/li>
+&lt;/ul>
+&lt;h1 id="projet-professionnel">Projet professionnel&lt;/h1>
+&lt;p>Je souhaite après ce BTS pouvoir continuer mes études en licence professionnelle ou en Bac+5. Mon projet est de travailler en tant que développeur dans une entreprise qui contribue au développement des logiciels libres et open source. En effet, on aperçoit aujourd&amp;rsquo;hui des logiciels libres partout autour de nous, des objets connectés aux ordinateurs en passant par les équipements réseaux.&lt;/p></content></item><item><title>Atelier professionnel</title><link>https://axel-1.github.io/ap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/ap/</guid><description>GSB Médecins : API REST avec clients mobile et Web Voici le dernier AP qui conclut cette formation en BTS SIO. Tout comme le précédent, le contexte est imposé. Il s&amp;rsquo;agit d&amp;rsquo;un système d&amp;rsquo;annuaire de médecin par pays et département. Seul un fichier SQL contenant les médecins nous est fourni. Ansi, la base de données ainsi que le modèle de données est à réaliser en plus de l&amp;rsquo;application. Le contexte impose également une architecture spécifique, à savoir un backend qui expose un webservice et deux clients différents qui consomment ce webservice.</description><content>&lt;h1 id="gsb-médecins--api-rest-avec-clients-mobile-et-web">GSB Médecins : API REST avec clients mobile et Web&lt;/h1>
+&lt;img src="https://axel-1.github.io/img/sf-api.png" alt="GSB Médecins" class="center" style="border-radius: 8px;" />
+&lt;p>Voici le dernier AP qui conclut cette formation en BTS SIO. Tout comme le précédent, le contexte est imposé. Il s&amp;rsquo;agit d&amp;rsquo;un système d&amp;rsquo;annuaire de médecin par pays et département. Seul un fichier SQL contenant les médecins nous est fourni. Ansi, la base de données ainsi que le modèle de données est à réaliser en plus de l&amp;rsquo;application. Le contexte impose également une architecture spécifique, à savoir un backend qui expose un webservice et deux clients différents qui consomment ce webservice. J&amp;rsquo;ai choisi d&amp;rsquo;utiliser Symfony avec API Platform pour réaliser le backend qui expose une API REST. Ensuite, pour les clients, j&amp;rsquo;ai réalisé une application mobile avec Flutter pour visualiser l&amp;rsquo;annuaire et un client web d&amp;rsquo;administration pour éditer, ajouter et supprimer les médecins dans l&amp;rsquo;annuaire.&lt;/p>
+&lt;blockquote>
+&lt;p>L&amp;rsquo;application dispose des fonctionnalités suivantes :&lt;/p>
+&lt;ul>
+&lt;li>API REST&lt;/li>
+&lt;li>Affichage des médecins par pays et département&lt;/li>
+&lt;li>Système de recherche&lt;/li>
+&lt;li>Application mobile Flutter pour visualiser l&amp;rsquo;annuaire&lt;/li>
+&lt;li>Client web pour l&amp;rsquo;administration : ajout, modification, suppression des médecins&lt;/li>
+&lt;li>Authentification des administrateurs&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger le contexte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger la documentation technique&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="gsb-gestion-visite--application-web-mvc-avec-framework">GSB Gestion Visite : Application Web MVC avec framework&lt;/h1>
+&lt;p>
+&lt;img src="https://axel-1.github.io/img/gestion-visite.png" alt="GSB Gestion Visite" class="center" />
+Avec ce troisième AP, le sujet proposé était une application Web de gestion des visites des commerciaux pharmaceutiques. Le contexte comportait une base de données déjà complète. Ainsi nous devions baser notre application sur ce modèle de données. Nous étions libres de la solution technique à utiliser. J&amp;rsquo;ai donc choisi d&amp;rsquo;utiliser le framework Spring ainsi que le moteur de template Thymeleaf.&lt;/p>
+&lt;blockquote>
+&lt;p>L&amp;rsquo;application dispose des fonctionnalités suivantes :&lt;/p>
+&lt;ul>
+&lt;li>Gestion des rapports de visites avec gestion des médicaments offerts comme échantillons.&lt;/li>
+&lt;li>Gestion des médecins avec leurs coordonnées&lt;/li>
+&lt;li>Affichage des médicaments&lt;/li>
+&lt;li>Authentification des commerciaux&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger le contexte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger la documentation technique&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="simple-inventory--application-web-mvc-sans-framework">Simple Inventory : Application Web MVC sans framework&lt;/h1>
+&lt;p>
+&lt;img src="https://axel-1.github.io/img/simple-inventory.png" alt="Simple Inventory" class="center" />
+Pour ce second AP, le but était de mettre en application les différentes connaissances que nous avions apprises lors de TP sur le MVC en PHP. Ainsi, j&amp;rsquo;ai réalisé une application Web MVC en PHP natif, c&amp;rsquo;est-à-dire sans framework. Le choix du contexte était libre, j&amp;rsquo;ai décidé de réaliser un système de gestion de parc informatique.&lt;/p>
+&lt;blockquote>
+&lt;p>L&amp;rsquo;application dispose des fonctionnalités suivantes :&lt;/p>
+&lt;ul>
+&lt;li>Gestion de plusieurs sites&lt;/li>
+&lt;li>Sauvegarde des différentes informations sur une machine : numéro de série, modèle, nom d&amp;rsquo;hote etc&amp;hellip;&lt;/li>
+&lt;li>Suivi de la garantie : nom, durée, date d&amp;rsquo;expiration&lt;/li>
+&lt;li>Système de supervision&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Télécharger la documentation technique&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="portfolio">Portfolio&lt;/h1>
+&lt;p>
+&lt;img src="https://axel-1.github.io/img/portfolio.png" alt="Portfolio" class="center" />
+Lors de ce premier AP, nous avons réalisé différentes activités afin de faciliter la recherche de stage. Ainsi, les différentes productions réalisées durant cet AP se trouvent dans les différentes pages de ce Portfolio.&lt;/p>
+&lt;blockquote>
+&lt;p>Durant cet AP j&amp;rsquo;ai réalisé différentes activités :&lt;/p>
+&lt;ul>
+&lt;li>Rédaction d&amp;rsquo;un CV et d&amp;rsquo;une lettre de motivation.&lt;/li>
+&lt;li>Recherche et rédaction d&amp;rsquo;un compte rendu sur les CMS.&lt;/li>
+&lt;li>Rédaction d&amp;rsquo;un compte rendu sur les outils de gestion de projet&lt;/li>
+&lt;li>Rédaction d&amp;rsquo;un cahier des charges pour le site Portfolio.&lt;/li>
+&lt;/ul>
+&lt;/blockquote></content></item><item><title>BTS SIO</title><link>https://axel-1.github.io/bts-sio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/bts-sio/</guid><description>Le Brevet de Technicien Supérieur Services informatique aux Organisations (SIO) s’adresse à ceux qui souhaitent se former en deux ans aux métiers d’administrateur réseau ou de développeur pour intégrer directement le marché du travail ou continuer des études dans le domaine de l’informatique.
+Le BTS Services informatique aux Organisations est un diplôme reconnu par l’état de niveau Bac+2. Cette formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le BTS SIO SISR et le BTS SIO SLAM.</description><content>&lt;p>Le Brevet de Technicien Supérieur Services informatique aux Organisations (SIO) s’adresse à ceux qui souhaitent se former en deux ans aux métiers d’administrateur réseau ou de développeur pour intégrer directement le marché du travail ou continuer des études dans le domaine de l’informatique.&lt;/p>
+&lt;p>Le BTS Services informatique aux Organisations est un diplôme reconnu par l’état de niveau Bac+2. Cette formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le BTS SIO SISR et le BTS SIO SLAM.&lt;/p>
+&lt;p>Il associe aux enseignements théoriques et professionnels (en contrôle continu et final) deux stages en entreprise (10 à 11 semaines réparties sur les deux années d’études).&lt;/p>
+&lt;p>Ainsi j&amp;rsquo;ai décidé de choisir l&amp;rsquo;option SLAM, voici leurs descriptions :&lt;/p>
+&lt;h1 id="solutions-logicielles-et-applications-métier-slam">Solutions logicielles et applications métier (SLAM)&lt;/h1>
+&lt;blockquote>
+&lt;p>L’option SLAM est destinée aux étudiants qui s’orientent vers les métiers liés à la conception et la maintenance de programmes applicatifs.
+Voici les différents métiers liés à cette option :&lt;/p>
+&lt;ul>
+&lt;li>Responsable des services applicatifs&lt;/li>
+&lt;li>Développeur d&amp;rsquo;applications informatiques&lt;/li>
+&lt;li>Développeur Web&lt;/li>
+&lt;li>Analyste développeur&lt;/li>
+&lt;li>Développeur d&amp;rsquo;applications mobiles&lt;/li>
+&lt;li>Administrateur de base de données&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h4 id="solutions-dinfrastructure-systèmes-et-réseaux-sisr">Solutions d’infrastructure, systèmes et réseaux (SISR)&lt;/h4>
+&lt;p>L’option SISR est destinée aux étudiants qui s’orientent vers les métiers liés à la conception et la maintenance d’infrastructures réseaux. Assurer la sécurité, la maintenance et l’installation des réseaux et des équipements informatiques.
+Voici les différents métiers liés à cette option :&lt;/p>
+&lt;ul>
+&lt;li>Technicien réseau et télécoms&lt;/li>
+&lt;li>Technicien systèmes et réseaux&lt;/li>
+&lt;li>Administrateur systèmes et réseaux&lt;/li>
+&lt;li>Pilote d’exploitation&lt;/li>
+&lt;li>Technicien support informatique&lt;/li>
+&lt;li>Responsable sécurité informatique&lt;/li>
+&lt;/ul></content></item><item><title>Compétences</title><link>https://axel-1.github.io/competences/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/competences/</guid><description>Télécharger le tableau de compétences</description><content>
+&lt;img src="https://axel-1.github.io/img/tableau.png" alt="Tableau de synthèse" class="center" style="border-radius: 8px;" />
+&lt;p>&lt;a href="">Télécharger le tableau de compétences&lt;/a>&lt;/p></content></item><item><title>CV</title><link>https://axel-1.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/cv/</guid><description>Télécharger mon CV</description><content>
+&lt;img src="https://axel-1.github.io/img/cv.png" alt="CV" class="center" style="border-radius: 8px;" />
+&lt;p>&lt;a href="https://axel-1.github.io/doc/cv.pdf">Télécharger mon CV&lt;/a>&lt;/p></content></item><item><title>Stages</title><link>https://axel-1.github.io/stages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/stages/</guid><description>Null Labs Dans le cadre de ma formation de BTS SIO, j’ai réalisé un stage dans l’entreprise Null Labs, qui est une entreprise de service numérique. L’objectif était de réaliser la maintenance et l’évolution d’un projet en cours de réalisation pour un client. Null Labs est une entreprise de service numérique dirigée par Benjamin Bacot.
+Le projet qui m’a été confié, est un CMS personnalisé pour la gestion d’un centre de formation de danse : l’I-F-D-S.</description><content>&lt;h1 id="null-labs">Null Labs&lt;/h1>
+&lt;img src="https://axel-1.github.io/img/sf-api.png" alt="Null Labs" class="center" style="border-radius: 8px;" />
+&lt;p>Dans le cadre de ma formation de BTS SIO, j’ai réalisé un stage dans l’entreprise Null Labs, qui est une entreprise de service numérique. L’objectif était de réaliser la maintenance et l’évolution d’un projet en cours de réalisation pour un client.
+Null Labs est une entreprise de service numérique dirigée par Benjamin Bacot.&lt;/p>
+&lt;p>Le projet qui m’a été confié, est un CMS personnalisé pour la gestion d’un centre de formation de danse : l’I-F-D-S.&lt;/p>
+&lt;p>I-F-D-S CMS est une application Web réalisée avec Symfony et PHP. Elle dispose de multiples fonctionnalités personnalisées pour les besoins de l’I-F-D-S. Tel qu’un formulaire de contact complexe pour la demande de formation ou encore un planning dynamique. Également, comme son nom l’indique, cette application est un CMS c’est-à-dire que l’utilisateur peut créer des pages lui-même depuis une interface d’administration.&lt;/p>
+&lt;blockquote>
+&lt;p>Durant ce stage j&amp;rsquo;ai réalisé différentes activités :&lt;/p>
+&lt;ul>
+&lt;li>Réalisation d’un environnement de développement avec Docker&lt;/li>
+&lt;li>Migration du projet vers Symfony 6.0&lt;/li>
+&lt;li>Mise en place de la gestion de projet Agile-Scrum&lt;/li>
+&lt;li>Création de Fixtures pour l’initialisation de la base de données&lt;/li>
+&lt;li>Création d’une API REST avec API Platform pour le créateur de page du CMS&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="">Télécharger le rapport de stage&lt;/a>&lt;/li>
+&lt;li>Site Web de l&amp;rsquo;application (Bientôt disponible !)&lt;/li>
+&lt;/ul>
+&lt;h1 id="pinoy-services">Pinoy services&lt;/h1>
+&lt;img src="https://axel-1.github.io/img/pinoy-services.png" alt="Pinoy Services" class="center" style="border-radius: 8px;" />
+&lt;p>J’ai réalisé dans le cadre de ma formation de BTS SIO un stage dans l’entreprise Pinoy Services qui est un magasin de produit alimentaire philippin et asiatique. L’objectif était de réaliser un site web e-commerce afin de développer l’activité de vente à distance de la société.
+Pinoy Services est le plus grand magasin de produit alimentaire philippin et asiatique de Paris.&lt;/p>
+&lt;p>Le projet qui nous a été confié consiste à réaliser un site web e-commerce pour l’entreprise afin de faciliter la vente à distance. Auparavant, les clients contactaient directement la gérante via Facebook ou Whatsapp afin de passer leurs commandes.&lt;/p>
+&lt;p>Le cahier des charges est simple, la gérante souhaite un site e-commerce complet (paiements, calcul des frais de ports, facture, e-mail, etc…).
+Également, l’entreprise souhaite pouvoir afficher sur le site des infos pratiques sur son point de vente physique comme les horaires, l’adresse ainsi que les taux de changes de ses deux partenaires pour les transferts d’argent.&lt;/p>
+&lt;p>Nous avons donc décidé d’utiliser le CMS PrestaShop. Ce logiciel nous offre beaucoup de possibilité niveau configuration et personnalisation, grâce aux extensions. Il est libre, open-source et sponsorisé par une entreprise française. PrestaShop offre par défaut des fonctionnalités liées à la RGPD et est utilisé par de grandes entreprises.&lt;/p>
+&lt;blockquote>
+&lt;p>Durant ce stage j&amp;rsquo;ai réalisé différentes activités :&lt;/p>
+&lt;ul>
+&lt;li>Installation du CMS Prestashop&lt;/li>
+&lt;li>Analyse de l&amp;rsquo;architecture technique du CMS&lt;/li>
+&lt;li>Développement d&amp;rsquo;une extension pour afficher le taux de change&lt;/li>
+&lt;li>Création d&amp;rsquo;un tableau de bord pour les commandes en PHP à l&amp;rsquo;aide de l&amp;rsquo;API REST de Prestashop&lt;/li>
+&lt;li>Rédaction d&amp;rsquo;une documentation utilisateur&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="">Télécharger le rapport de stage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Site Web&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">Documentation utilisateur&lt;/a>&lt;/li>
+&lt;/ul></content></item></channel></rss>
