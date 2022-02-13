@@ -37,14 +37,14 @@ Expériences professionnelles Pendant ma formation de Bac Pro SN RISC j&amp;rsqu
 &lt;/ul>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;a href="">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger le contexte&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger la documentation technique&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Axel-1/GSB-Medecins">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/GSB-Medecins-Contexte.pdf">Télécharger le contexte&lt;/a>&lt;/li>
+&lt;li>Télécharger la documentation utilisateur (Bientôt disponible !)&lt;/li>
+&lt;li>Télécharger la documentation technique (Bientôt disponible !)&lt;/li>
 &lt;/ul>
-&lt;h1 id="gsb-gestion-visite--application-web-mvc-avec-framework">GSB Gestion Visite : Application Web MVC avec framework&lt;/h1>
+&lt;h1 id="gsb-gestion-visites--application-web-mvc-avec-framework">GSB Gestion Visites : Application Web MVC avec framework&lt;/h1>
 &lt;p>
-&lt;img src="https://axel-1.github.io/img/gestion-visite.png" alt="GSB Gestion Visite" class="center" />
+&lt;img src="https://axel-1.github.io/img/gestion-visites.png" alt="GSB Gestion Visites" class="center" />
 Avec ce troisième AP, le sujet proposé était une application Web de gestion des visites des commerciaux pharmaceutiques. Le contexte comportait une base de données déjà complète. Ainsi nous devions baser notre application sur ce modèle de données. Nous étions libres de la solution technique à utiliser. J&amp;rsquo;ai donc choisi d&amp;rsquo;utiliser le framework Spring ainsi que le moteur de template Thymeleaf.&lt;/p>
 &lt;blockquote>
 &lt;p>L&amp;rsquo;application dispose des fonctionnalités suivantes :&lt;/p>
@@ -56,10 +56,10 @@ Avec ce troisième AP, le sujet proposé était une application Web de gestion d
 &lt;/ul>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;a href="">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger le contexte&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger la documentation technique&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Axel-1/GSB-Gestion-Visites">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/GSB-Gestion-Visites-Contexte.pdf">Télécharger le contexte&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/GSB-Gestion-Visites-Utilisateur.pdf">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/GSB-Gestion-Visites-Technique.pdf">Télécharger la documentation technique&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h1 id="simple-inventory--application-web-mvc-sans-framework">Simple Inventory : Application Web MVC sans framework&lt;/h1>
 &lt;p>
@@ -75,9 +75,9 @@ Pour ce second AP, le but était de mettre en application les différentes conna
 &lt;/ul>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;a href="">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Télécharger la documentation technique&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Axel-1/Simple-Inventory">Lien vers le dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/Simple-Inventory-Utilisateur.pdf">Télécharger la documentation utilisateur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/Simple-Inventory-Technique.pdf">Télécharger la documentation technique&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h1 id="portfolio">Portfolio&lt;/h1>
 &lt;p>
@@ -121,7 +121,7 @@ Voici les différents métiers liés à cette option :&lt;/p>
 &lt;li>Responsable sécurité informatique&lt;/li>
 &lt;/ul></content></item><item><title>Compétences</title><link>https://axel-1.github.io/competences/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/competences/</guid><description>Télécharger le tableau de compétences</description><content>
 &lt;img src="https://axel-1.github.io/img/tableau.png" alt="Tableau de synthèse" class="center" style="border-radius: 8px;" />
-&lt;p>&lt;a href="">Télécharger le tableau de compétences&lt;/a>&lt;/p></content></item><item><title>CV</title><link>https://axel-1.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/cv/</guid><description>Télécharger mon CV</description><content>
+&lt;p>&lt;a href="https://axel-1.github.io/doc/Tableau-de-synthese.pdf">Télécharger le tableau de compétences&lt;/a>&lt;/p></content></item><item><title>CV</title><link>https://axel-1.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/cv/</guid><description>Télécharger mon CV</description><content>
 &lt;img src="https://axel-1.github.io/img/cv.png" alt="CV" class="center" style="border-radius: 8px;" />
 &lt;p>&lt;a href="https://axel-1.github.io/doc/cv.pdf">Télécharger mon CV&lt;/a>&lt;/p></content></item><item><title>Stages</title><link>https://axel-1.github.io/stages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://axel-1.github.io/stages/</guid><description>Null Labs Dans le cadre de ma formation de BTS SIO, j’ai réalisé un stage dans l’entreprise Null Labs, qui est une entreprise de service numérique. L’objectif était de réaliser la maintenance et l’évolution d’un projet en cours de réalisation pour un client. Null Labs est une entreprise de service numérique dirigée par Benjamin Bacot.
 Le projet qui m’a été confié, est un CMS personnalisé pour la gestion d’un centre de formation de danse : l’I-F-D-S.</description><content>&lt;h1 id="null-labs">Null Labs&lt;/h1>
@@ -141,7 +141,7 @@ Null Labs est une entreprise de service numérique dirigée par Benjamin Bacot.&
 &lt;/ul>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;a href="">Télécharger le rapport de stage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/Rapport-Null-Labs.pdf">Télécharger le rapport de stage&lt;/a>&lt;/li>
 &lt;li>Site Web de l&amp;rsquo;application (Bientôt disponible !)&lt;/li>
 &lt;/ul>
 &lt;h1 id="pinoy-services">Pinoy services&lt;/h1>
@@ -163,7 +163,6 @@ Pinoy Services est le plus grand magasin de produit alimentaire philippin et asi
 &lt;/ul>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;a href="">Télécharger le rapport de stage&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Site Web&lt;/a>&lt;/li>
-&lt;li>&lt;a href="">Documentation utilisateur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/Rapport-Pinoy-Services.pdf">Télécharger le rapport de stage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://axel-1.github.io/doc/Pinoy-Services-Utilisateur.pdf">Documentation utilisateur&lt;/a>&lt;/li>
 &lt;/ul></content></item></channel></rss>
